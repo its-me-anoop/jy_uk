@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:jy_uk/bloc/theme_cubit.dart';
-import 'package:jy_uk/screens/counter_page/counter_page.dart';
-import 'package:jy_uk/screens/home_screen/home_screen.dart';
+import 'package:jy_uk/views/home_screen.dart';
 
 /// {@template app_view}
 /// A [StatelessWidget] that:

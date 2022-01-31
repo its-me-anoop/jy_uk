@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:jy_uk/screens/home_screen/bloc/page_bloc.dart';
+import 'package:jy_uk/bloc/page_bloc.dart';
 
 class BottomNavigationView extends StatelessWidget {
   const BottomNavigationView({Key? key}) : super(key: key);
